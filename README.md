@@ -7,8 +7,6 @@ I'm **xyChen** ✨✨✨✨✨.
 ## 🎉 Latest News
 
 - **2026-09-18** — Awarded the **National Scholarship**.
-- **2026-06-01** — Started working on ...
-- **2025-12-31** — ...
 
 ---
 
