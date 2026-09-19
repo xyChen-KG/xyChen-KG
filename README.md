@@ -1,10 +1,7 @@
 ## Hi there 👋
 
-<!--
-**xyChen-KG/xyChen-KG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **xyChen-KG** ✨✨✨✨✨.
 
-Here are some ideas to get you started:
-I'm **xyChen-KG**✨✨✨✨✨.
 - 🎓 I received the **National Scholarship** on **September 18, 2026**.
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,4 +11,3 @@ I'm **xyChen-KG**✨✨✨✨✨.
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
