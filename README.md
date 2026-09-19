@@ -6,10 +6,8 @@ I'm **xyChen-KG** ✨✨✨✨✨.
 
 ## 🎉 Latest News
 
-- **2026-09-18** — Awarded the **National Scholarship**.
-- **2026-05-15** — Obtained the **CBBA Professional Fitness Coach Certification** (National Certification).
-- **2025-12-31** — ...
-
+- **2026-09-18** — 🏆 Awarded the **National Scholarship**.
+- **2026-05-15** — 💪 Obtained the **CBBA Professional Fitness Coach Certification** (National Certification).
 ---
 
 ## 👨‍💻 About Me
