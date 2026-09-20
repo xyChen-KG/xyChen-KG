@@ -8,6 +8,8 @@ I'm **xyChen-KG** ✨✨✨✨✨.
 
 - **2026-09-18** — 🏆 Awarded the **National Scholarship**.
 - **2026-05-15** — 💪 Obtained the **CBBA Professional Fitness Coach Certification** (National Certification).
+- **2024-09** — 🎓 Enrolled in **Computer Science and Technology** at **Nanjing University**.
+
 ---
 
 ## 👨‍💻 About Me
